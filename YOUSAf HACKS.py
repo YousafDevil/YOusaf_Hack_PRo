@@ -145,8 +145,7 @@ _____.___.________   ____ ___  _________   _____  ___________   ___ ___    _____
 {cyan}  🌐  GitHub: https://github.com/YousafDevil/YOusaf_Hack_PRo
 {yellow}  📅  Version: {version}     🔓 License: MIT
 """                                
-{blue}  They entered their login details because the page looked familiar and legit .
-Boom you're hacked! 💥
+{blue}  They entered their login details because the page looked familiar and legit. print("Boom you're hacked! 💥") 💥
 {red}                   🌟 GREETINGS TO ALL HACKERS, PENTESTERS, AND SEO EXPERTS FROM COMRADE! 🌟                                                     
 {green} {" "*20}          {cyan}[v{version[:3]}]
 {cyan} {" "*20}         {red}[By YOUSAF] 😎
