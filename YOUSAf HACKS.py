@@ -127,10 +127,19 @@ logo = f"""
 {cyan}                           <%%%%|==========>                                                        
 {yellow}.  
  +-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+-+-+-+ 
+                                                                            
+                         <===[ YOUSAF HACKS PRO ]===>                                                    
 ┏━╸┏┳┓╺┳┓╻ ╻┏━╸╻┏    ┏━┓╻ ╻╻┏━┓╻ ╻╻┏┓╻┏━╸   ╻ ╻┏━┓┏━╸╻┏ 
 ┃  ┃┃┃ ┃┃┣━┫┃  ┣┻┓   ┣━┛┣━┫┃┗━┓┣━┫┃┃┗┫┃╺┓   ┣━┫┣━┫┃  ┣┻┓
 ┗━╸╹ ╹╺┻┛╹ ╹┗━╸╹ ╹   ╹  ╹ ╹╹┗━┛╹ ╹╹╹ ╹┗━┛   ╹ ╹╹ ╹┗━╸╹ ╹
- +-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+-+-+-+                                                           
+ +-+-+-+-+-+-+ +-+-+-+-+-+-+-+-+ +-+-+-+-+                                                          
+
+{blue}  🛡️  Ethical | Educational | Powerful
+{red}  🔥  “They entered credentials because it looked legit... Boom! You hacked!”  
+{green}  📢  Created by: MUHAMMAD YOUSAF [YousafDevil]
+{cyan}  🌐  GitHub: https://github.com/YousafDevil/YOusaf_Hack_PRo
+{yellow}  📅  Version: {version}     🔓 License: MIT
+"""                                
 {blue}  They entered their login details because the page looked familiar and legit .
 Boom you're hacked! 💥
 {red}                   🌟 GREETINGS TO ALL HACKERS, PENTESTERS, AND SEO EXPERTS FROM COMRADE! 🌟                                                     
